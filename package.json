@@ -16,6 +16,7 @@
   ],
   "author": "Edgar Torres <edgarjosue2911@gmail.com>",
   "license": "MIT",
+  "type":"module",
   "bugs": {
     "url": "https://github.com/protondk/curso-ecmascript/issues"
   },
